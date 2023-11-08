@@ -1,0 +1,6 @@
+UserId,OrderId,Date,ProductId,UnitPrice,Quantity,Amount,Status
+6,5,23-Dec,3,10,5,50,i
+6,4,23-Dec,2,20,5,100,i
+5,6,23-Dec,1,30,5,150,u
+4,2,23-Dec,1,40,2,80,d
+4,2,23-Dec,2,20,3,60,d

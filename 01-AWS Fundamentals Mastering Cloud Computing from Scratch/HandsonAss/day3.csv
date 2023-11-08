@@ -1,0 +1,9 @@
+UserId,OrderId,Date,ProductId,UnitPrice,Quantity,Amount,Status
+5,6,22-Dec,1,50,5,250,u
+5,6,22-Dec,2,20,5,100,d
+4,6,22-Dec,4,10,10,100,i
+4,2,22-Dec,1,40,2,80,i
+4,2,22-Dec,2,20,3,60,i
+2,2,22-Dec,6,12,5,60,u
+5,9,22-Dec,1,40,5,200,i
+2,2,22-Dec,1,40,2,80,d
